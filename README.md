@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NLP and Deep Learning Learning Repository
 
 Welcome to my Natural Language Processing (NLP) and Deep Learning learning repository! This repository documents my journey in learning and implementing various NLP and Deep Learning techniques using Python.
@@ -103,6 +102,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ Star this repository if you find it helpful!
-=======
-# Machine-Learning
->>>>>>> 156faf290691791e7d5f4a09be59045ad1001017
+

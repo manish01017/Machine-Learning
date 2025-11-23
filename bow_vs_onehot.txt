@@ -1,0 +1,25 @@
+Bag of Words vs One-Hot Encoding in NLP
+
+Advantages of Bag of Words:
+- Simple and easy to implement
+- Captures word frequency, useful for text classification
+- fixed size I/p feature 
+- Binary BOW - gives only 1 to the selected words 
+
+Disadvantages of Bag of Words:
+- Ignores word order and context - since ordering is changed ,meaning changes
+- Results in high-dimensional sparse vectors (Sparse matrix)
+- Cannot capture semantic meaning or relationships
+- Sensitive to vocabulary size and noise (OOV)
+
+Advantages of One-Hot Encoding:
+- Simple representation for categorical data
+- Useful for small, fixed vocabularies
+- No ambiguity in word representation
+
+Disadvantages of One-Hot Encoding:
+- Sparse Matrix-- leads to overfitting
+- Each word is independent (no semantic similarity)
+- Does not capture word frequency or order
+- OOV ( Out of vocabulary) - won't be able to handle any new words
+- different zize of input
